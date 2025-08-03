@@ -1,0 +1,22 @@
+
+body {
+  font-family: sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+#difficultyBar {
+  display: flex;
+  height: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+#easy {
+  background-color: #5cb85c;
+}
+#medium {
+  background-color: #f0ad4e;
+}
+#hard {
+  background-color: #d9534f;
+}
